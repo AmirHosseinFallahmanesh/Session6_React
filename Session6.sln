@@ -3,9 +3,73 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{026AFD6E-EAE1-493C-997D-64BE7DBD9D73}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\public\index.html = E:\Course\react\New folder\5\demo\public\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo1", "Demo1", "{D6042F6A-D8DC-440A-A39C-4465452F6F38}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\src\Demo1\AbouOther.js = E:\Course\react\New folder\5\demo\src\Demo1\AbouOther.js
+		E:\Course\react\New folder\5\demo\src\Demo1\About.js = E:\Course\react\New folder\5\demo\src\Demo1\About.js
+		E:\Course\react\New folder\5\demo\src\Demo1\Container.js = E:\Course\react\New folder\5\demo\src\Demo1\Container.js
+		E:\Course\react\New folder\5\demo\src\Demo1\Dashboard.js = E:\Course\react\New folder\5\demo\src\Demo1\Dashboard.js
+		E:\Course\react\New folder\5\demo\src\Demo1\Home.js = E:\Course\react\New folder\5\demo\src\Demo1\Home.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo2", "Demo2", "{93086A0A-7A0B-4767-9557-BB7D2539369E}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\src\Demo2\AbouOther.js = E:\Course\react\New folder\5\demo\src\Demo2\AbouOther.js
+		E:\Course\react\New folder\5\demo\src\Demo2\About.js = E:\Course\react\New folder\5\demo\src\Demo2\About.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Cantact.js = E:\Course\react\New folder\5\demo\src\Demo2\Cantact.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Construct.js = E:\Course\react\New folder\5\demo\src\Demo2\Construct.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Container.js = E:\Course\react\New folder\5\demo\src\Demo2\Container.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Dashboard.js = E:\Course\react\New folder\5\demo\src\Demo2\Dashboard.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Home.js = E:\Course\react\New folder\5\demo\src\Demo2\Home.js
+		E:\Course\react\New folder\5\demo\src\Demo2\NotFound.js = E:\Course\react\New folder\5\demo\src\Demo2\NotFound.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Product.js = E:\Course\react\New folder\5\demo\src\Demo2\Product.js
+		E:\Course\react\New folder\5\demo\src\Demo2\Shop.js = E:\Course\react\New folder\5\demo\src\Demo2\Shop.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Formik", "Formik", "{935482C6-7642-4CB8-BDEF-3B4674DEF2CB}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\src\Formik\Form.js = E:\Course\react\New folder\5\demo\src\Formik\Form.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form10.js = E:\Course\react\New folder\5\demo\src\Formik\Form10.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form11.js = E:\Course\react\New folder\5\demo\src\Formik\Form11.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form2.js = E:\Course\react\New folder\5\demo\src\Formik\Form2.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form3.js = E:\Course\react\New folder\5\demo\src\Formik\Form3.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form4.js = E:\Course\react\New folder\5\demo\src\Formik\Form4.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form5.js = E:\Course\react\New folder\5\demo\src\Formik\Form5.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form6.js = E:\Course\react\New folder\5\demo\src\Formik\Form6.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form7.js = E:\Course\react\New folder\5\demo\src\Formik\Form7.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form8.js = E:\Course\react\New folder\5\demo\src\Formik\Form8.js
+		E:\Course\react\New folder\5\demo\src\Formik\Form9.js = E:\Course\react\New folder\5\demo\src\Formik\Form9.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "propTypes", "propTypes", "{3E3416C9-5CF2-4C1D-8207-BE29BA632327}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\src\PropTypes\Demo.js = E:\Course\react\New folder\5\demo\src\PropTypes\Demo.js
+		E:\Course\react\New folder\5\demo\src\PropTypes\Demo1.js = E:\Course\react\New folder\5\demo\src\PropTypes\Demo1.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SweetAlert", "SweetAlert", "{C564E1F8-5D69-453A-AC4A-1059E1BDC1CE}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\5\demo\src\SweetAlert\Demo.js = E:\Course\react\New folder\5\demo\src\SweetAlert\Demo.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pub", "pub", "{1300AABB-34C8-4D9C-A493-C2145D928AD9}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6042F6A-D8DC-440A-A39C-4465452F6F38} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
+		{93086A0A-7A0B-4767-9557-BB7D2539369E} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
+		{935482C6-7642-4CB8-BDEF-3B4674DEF2CB} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
+		{3E3416C9-5CF2-4C1D-8207-BE29BA632327} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
+		{C564E1F8-5D69-453A-AC4A-1059E1BDC1CE} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
+		{1300AABB-34C8-4D9C-A493-C2145D928AD9} = {026AFD6E-EAE1-493C-997D-64BE7DBD9D73}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {461F9E21-8965-4B2B-8BD6-C17AA1BE7220}
